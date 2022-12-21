@@ -1,6 +1,6 @@
 ### About 
 
-Hi, I'm Alymbek! I'm from Bishkek, Kyrgyzstan. I work at Realtor.com, which I joined in 2020 when I graduated with a Bachelor's Degree in Computer Science from Marshall University. 
+Hi, I'm Alymbek! I'm from Bishkek, Kyrgyzstan. I work at Realtor.com, which I joined in 2020 when I received my Bachelor's Degree in Computer Science from Marshall University. 
 
 ### Books 2022
 
