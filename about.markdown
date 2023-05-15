@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Alymbek! I'm from Bishkek, Kyrgyzstan. I work as a Software Engineer at Realtor.com. My journey in the industry started in 2020 when I received my Bachelor's Degree in Computer Science from Marshall University.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Hobbies & Interests**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- BJJ
+- Cooking
+- Hiking
+- Table Tennis
