@@ -4,7 +4,7 @@ title:  "2021 Toyota Camry Hybrid LE"
 date:   2023-05-15
 categories: cars
 ---
-I have a 2021 Toyota Camry Hybrid LE. As of (05-03-2023) it has 23472 miles.
+I have a 2021 Toyota Camry Hybrid LE. As of today (05-13-2023) it has 23472 miles.
 
 I bought this car new in August of 2021 from a dealership in West Virginia. My previous car was a 2007 Toyota Corolla LE. I traded it in to buy the Camry. I owned the Corolla for only 6-7 months. The Corolla had many issues and it was getting harder and harder to try to fix all the problems.
 
