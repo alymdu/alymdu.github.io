@@ -28,7 +28,7 @@ twitter_username:
 github_username:  alymdu
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
